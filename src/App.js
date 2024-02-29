@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {process.env.REACT_APP_WELCOME_TEXT || "Github Actions Tutorial"} - By
-          DevOps Pro
+          AP
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps
+          Learn from Ashadipta
         </a>
       </header>
     </div>
